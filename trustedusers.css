@@ -137,3 +137,11 @@
     padding-top: 60px;
 }
 
+@media (max-width:800px) {
+    .trustedusers { display: flex;
+        flex-direction: column; justify-content: center; align-items: center;
+        max-width: 800px;
+        
+    }
+}
+

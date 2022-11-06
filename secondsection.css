@@ -253,4 +253,12 @@ border-radius: 6px;
     justify-content: center;
     font-family: sans-serif;
    }
+
+   @media (max-width:800px) {
+    .container-1, .container-2, .section4, .worktogethar { display: flex;
+        flex-direction: column; justify-content: center; align-items: center;
+        max-width: 800px;
+        
+    }
+}
     

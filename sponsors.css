@@ -115,3 +115,11 @@
     margin-left: 160px;
     margin-top: -30px;
 }
+
+@media (max-width:800px) {
+    .sponsors, .sponsors2 { display: flex;
+        flex-direction: column; justify-content: center; align-items: center;
+         gap:10px;
+        
+    }
+}

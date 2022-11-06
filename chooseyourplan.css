@@ -178,3 +178,10 @@ margin-right: px;
     color: black;
  }
 
+ @media (max-width:800px) {
+    .yourplan, .chooseplan{ display: flex;
+        flex-direction: column; justify-content: center; align-items: center;
+        max-width: 800px;
+        
+    }
+}
