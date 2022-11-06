@@ -1,0 +1,256 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container-1 {
+    display: flex;
+    flex-direction: row;
+    /* padding-left: inherit; */
+    padding-top: 140px;
+    margin-right: 100px;
+    justify-content: center;
+    margin-left: 100px;
+    
+
+}
+
+.container-1 img {
+    width: 824px;
+    height: 549px;
+    margin-left: 200px;
+
+}
+
+.block-info-1 {
+    display: flex;
+    flex-direction: column; 
+
+}
+
+.block-info-1 h3 {
+    width: 656px;
+    height: 154px;
+
+    /* Header/H2 */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+    letter-spacing: -0.02em;
+
+    color: #4F9CF9;
+}
+
+.block-info-1 p {
+    width: 656px;
+    height: 60px;
+
+    /* Paragraph/P2/Regular */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+
+    letter-spacing: -0.02em;
+
+    color: #4F9CF9;
+    margin-top: 24px;
+}
+
+.button-block a {
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    width: 159px;
+height: 23px;
+}
+
+.button-block {
+    background-color: #4F9CF9;
+    width:227px;
+    height: 30px;
+    padding: 16px 24px;
+    gap: 10px;
+    border-radius: 8px;
+    margin-top: -16px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 80px;
+}
+.button-block img {
+    width: 10px;
+    height: 10px;
+    display: flex;
+    align-items: center;
+    margin-top: -17px;
+    margin-left: 170px;
+}
+.container-2 {
+    display: flex;
+    flex-direction: row;
+    /* padding-left: inherit; */
+    padding-top: 140px;
+    margin-right: 100px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+    
+}
+.container-2main {
+    background-image: url(./assets/image/BACKGROUND-blocksection.png);
+    background-repeat: no-repeat;
+    
+}
+.container-2-img img {
+    width: 748px;
+    height: 547px;
+    margin-left: 270px;
+}
+.container-2main h1 {
+    /* Header/H1 */
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 87px;
+letter-spacing: -0.02em;
+color: #212529;
+z-index: 3;
+}
+
+.container-2main img {
+    margin-top: -20px;
+    z-index: 1;
+    margin-bottom: 24px;
+}
+
+.container-2main p {
+    font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+}
+
+.button-container2 {
+    margin-top: 60px;
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+/* padding: 20px 40px; */
+/* gap: 10px; */
+
+width: 201px;
+height: 63px;
+
+background: #4F9CF9;
+border-radius: 6px;
+}
+
+.button-container2 a {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.button-container2 img {
+    width: 10px;
+    height: 10px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+
+.worktogethar {
+    display: flex;
+    flex-direction: row;
+    padding-top: 283px;
+    gap: 114px;
+    justify-content: center;
+}
+
+
+.button-container3 {
+    margin-top: 60px;
+    display: flex;
+flex-direction: row;
+align-items: center;
+width: 201px;
+height: 63px;
+justify-content: center;
+
+background: #4F9CF9;
+border-radius: 6px;
+}
+.button-container3 a {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.button-container3 img {
+    margin-left: 10px;
+}
+
+.section4{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 329px;
+    gap: 98px;
+
+}
+   .image4setion img {
+    width: 686px;
+    height: 479px;
+   }
+
+   .last-section img {
+    width: 697px;
+    height: 258px;
+   }
+
+   .button4 {
+    margin-top: 60px;
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+/* padding: 20px 40px; */
+/* gap: 10px; */
+
+width: 201px;
+height: 63px;
+
+background: #4F9CF9;
+border-radius: 6px;
+   }
+.button4 a {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+   }
+    

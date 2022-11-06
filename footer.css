@@ -1,0 +1,155 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+
+    
+}
+.footer a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* padding: 140px 220px 32px; */
+    gap: 200px;
+    background-color: #043873;
+    /* position: absolute; */
+    height: 400px;
+    margin-top: 60px;
+    width:  1920px;
+}
+
+.logofooter img {
+    margin-bottom: 15px;
+}
+.logofooter p {
+    color: #F7F7EE;;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: -0.02em;
+    }
+
+    .product ul, li{
+        color: white;
+        text-decoration: none;
+        list-style: none;
+        margin-top: 15px;
+    }
+
+    .product h2 {
+        color: white;
+    }
+    .orange {
+        color: #FFE492;
+    }
+
+    .try-it-today h1 {
+        color: white;
+        font-weight: 700;
+        font-size: 28px;
+        line-height: 36px;
+        font-family: sans-serif;
+        margin-bottom: 23px;
+    }
+
+    .try-it-today p {
+        color: white;
+        font-family: sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        letter-spacing: -0.02em;
+    }
+    .startbutton {
+        padding: 20px 40px;
+        background-color: #4F9CF9;
+        gap: 10px;
+        width: 186px;
+        height: 30px;
+        border-radius: 8px;
+        margin-top: 23px;
+    }
+
+    .startbutton a {
+        color: white;
+        text-decoration: none;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        font-family: sans-serif;
+    }
+
+    .startbutton span {
+        margin-left: 10px;
+    }
+    .footer-end {
+        height: 74px;
+        background-color: #043873;
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+        border-top: 1px solid #2E4E73;
+        border-width: 0.5px;
+        /* border-left: 200px; */
+    }
+    .english {
+        
+        margin-top: 33px;
+    }
+
+    .english span {
+        margin-left: 10px;
+        color: white;
+    }
+
+    .globus {
+        width: 15px;
+        height: 15px;
+    }
+    .text {
+        width: 53px;
+        height: 20px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        font-family: sans-serif;
+    
+    }
+    .end ul {
+        display: flex;
+        flex-direction: row;
+        margin-top: 15px;
+        margin-left: 150px;
+        gap: 60px;
+    }
+    .footer-icons ul {
+        display: flex;
+        flex-direction: row;
+        gap: 32px;
+        margin-left: 638px;
+        margin-top: 15px;
+    }
+
+    .footer-end a {
+        text-decoration: none;
+        color: white;
+    }
+
+
+        
+    
+
+
+   
+    

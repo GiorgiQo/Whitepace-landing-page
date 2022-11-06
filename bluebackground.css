@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+
+body {
+    background-color: black;
+}
+
+.blue {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.textblue {
+    padding-top: 300px; 
+}
+
+.taskey {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 40px;
+    background-color: #4F9CF9;
+    border-radius: 8px;
+    width: 195px;
+    height: 63px;
+
+}
