@@ -28,7 +28,7 @@
     /* align-items: flex-start; */
     padding: 40px 44px;
     width: 472.33px;
-    height: 700px;
+    height: 750px;
     background-color: white;
     border: 1px solid #FFE492;
     border-radius: 10px;
@@ -133,7 +133,7 @@ margin-right: px;
     color: #043873;
     margin-bottom: 50px;
 }
-.yesicon2 {
+.yesicon2 li {
     color: #043873;
 }
  .getstarted a {
@@ -174,5 +174,7 @@ margin-right: px;
  }
  
     
- 
+ .yesicon li {
+    color: black;
+ }
 
